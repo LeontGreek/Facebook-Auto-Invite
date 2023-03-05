@@ -9,6 +9,8 @@ This is a JavaScript code for automatically sending invitations to recommended f
 See the <a href="https://www.tampermonkey.net/faq.php">Tampermonkey FAQ</a> and for advanced users also check the <a href="https://www.tampermonkey.net/documentation.php">Tampermonkey Documentation</a>  for instructions.
 
 * Add a new script.
+* Copy and paste the code from the Facebook Auto Invite.js file to the Tampermonkey.
+* Save the new script by pressing Ctrl+S (or File > Save).
 * Go to https://www.facebook.com/friends/suggestions.
 * That's it! The script will do the rest for you!
 
