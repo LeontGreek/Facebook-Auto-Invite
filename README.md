@@ -27,4 +27,4 @@ This is a JavaScript code for automatically sending invitations to recommended f
 <br>
 
 > **Warning**
-> <br>Due to multiple invitation sendings, Facebook, after a while shows a message that you cannot send more invitations for a while. After that time you can send invatations again. It is a countermeasure for spam activities. <b>Use it with your own risk.</b>
+> <br>Due to multiple invitations being sent, Facebook shows a message after a while that says that sending invitations has been temporarily suspended. After some time you will be able to send invitations again. It is a countermeasure for spam activities. <b>Use it at your own risk.</b>
