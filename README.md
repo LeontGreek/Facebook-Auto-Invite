@@ -22,3 +22,8 @@ See the <a href="https://www.tampermonkey.net/faq.php">Tampermonkey FAQ</a> and 
 * Copy and paste the code from the Facebook Auto Invite.js file to the console.
 * Press Enter.
 * That's it! The script will do the rest for you!
+
+<br>
+
+> **Warning**
+> <br>Due to multiple invitation sendings, Facebook, after a while shows a message that you cannot send more invitations for a while. After that time you can send invatations again. It is a countermeasure for spam activities. !<b>Use it with your own risk.</b>!
