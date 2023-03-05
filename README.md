@@ -4,7 +4,7 @@
 This is a JavaScript code for automatically sending invitations to recommended friends on Facebook.
 
 
-# How to use:
+## How to use:
 
   ### 1) Using <a href="https://www.tampermonkey.net/">Tampermonkey</a>.<br>
   See the <a href="https://www.tampermonkey.net/faq.php">Tampermonkey FAQ</a> and for advanced users also check the <a href="https://www.tampermonkey.net/documentation.php">Tampermonkey Documentation</a>  for instructions.
