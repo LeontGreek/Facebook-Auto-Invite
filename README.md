@@ -26,4 +26,4 @@ See the <a href="https://www.tampermonkey.net/faq.php">Tampermonkey FAQ</a> and 
 <br>
 
 > **Warning**
-> <br>Due to multiple invitation sendings, Facebook, after a while shows a message that you cannot send more invitations for a while. After that time you can send invatations again. It is a countermeasure for spam activities. !<b>Use it with your own risk.</b>!
+> <br>Due to multiple invitation sendings, Facebook, after a while shows a message that you cannot send more invitations for a while. After that time you can send invatations again. It is a countermeasure for spam activities. <b>Use it with your own risk.</b>
